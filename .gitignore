@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+error.log
+combined.log
+
+# Environment variables
+.env
+
+# Redis temporary files
+temp-*.rdb
+dump.rdb
+
+# IDE / Editor files
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
